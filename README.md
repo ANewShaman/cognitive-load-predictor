@@ -1,6 +1,7 @@
 # Cognitive Load Predictor
 
 Predicts a developer's cognitive load score (0–100) from behavioral and lifestyle signals using machine learning.
+Try it here: https://anewshaman.github.io/cognitive-load-predictor/
 
 ---
 
